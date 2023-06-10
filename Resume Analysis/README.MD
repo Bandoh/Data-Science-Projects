@@ -1,5 +1,2 @@
-<object data="./Resume Analysis.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./Resume Analysis.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![Alt text](./page1.png "a title")
+![Alt text](./page2.png "a title")
